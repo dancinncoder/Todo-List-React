@@ -4,7 +4,7 @@
 
 // Goal : Build Todo List Website
 
-// Features : 
+// Features :
 1.Build UI
 2.Add Todo Card
 3.Delete Card in both Working List and Done List
@@ -31,10 +31,11 @@
 7.CardWorking: Card that is set to working status
 8.App : main application
 
-//Development Environment
+//Development Environment :
 1.React
 2.JavaScript
 3.HTML
 4.CSS
 
-//Note
+//Note :
+1.color palette : https://colorhunt.co/palette/8200004e6c50f2debafaecd6
