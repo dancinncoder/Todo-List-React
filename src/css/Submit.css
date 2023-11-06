@@ -1,0 +1,27 @@
+
+.input_area_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  width: 200px;
+  margin: 0 5px 0 5px;
+}
+
+.input_area_button > button {
+  width: 150px;
+  height: 40px;
+  background-color: #675D50;
+  border: none;
+  border-radius: 15px;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-right: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.input_area_button > button:hover {
+  background-color: #820000;
+  color: #FAECD6;
+}

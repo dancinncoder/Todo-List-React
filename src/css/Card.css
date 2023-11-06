@@ -1,0 +1,78 @@
+
+.card_area_core {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #675D50;
+  border-radius: 10px;
+  width: 13rem;
+  height: 10rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.card > h2 {
+  margin: 5px;
+  font-size: 1.3rem;
+  min-height: 3rem;
+}
+
+.card > .content_box {
+  min-height: 50px;
+  margin: 5px;
+}
+
+.card > .button_box{
+  justify-self: end;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.card > div > button:first-child {
+  background-color: #ce0000;
+  border: none;
+  border-radius: 10px;
+  width: 6rem;
+  height: 2rem;
+  margin: 5px;
+  color: #F2DEBA;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.card > div > button:nth-child(2) {
+  background-color: #4E6C50;
+  border: none;
+  border-radius: 10px;
+  width: 6rem;
+  height: 2rem;
+  margin: 5px;
+  color: #F2DEBA;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.card > div > button:first-child:hover {
+  background-color: #820000;
+  color: #F2DEBA;
+  border: none;
+}
+
+.card > div > button:nth-child(2):hover {
+  background-color: rgb(65, 87, 66);
+  color: #F2DEBA;
+  border: none;
+}

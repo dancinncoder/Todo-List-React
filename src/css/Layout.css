@@ -1,0 +1,20 @@
+
+.outer_frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* align-items: center; */
+  height: 100vh;
+  
+}
+
+.main_box {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  min-width: 800px;
+  width: 70vw;
+  padding: 15px;
+  /* max-width: 1200px; */
+}
