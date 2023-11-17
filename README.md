@@ -52,5 +52,5 @@ https://todo-list-react-apgs5e29l-hamin-lees-projects.vercel.app/
 
 ## Built With
 
-* [ColorHunt](http://www.dropwizard.io/1.0.2/docs/](https://colorhunt.co/palette/8200004e6c50f2debafaecd6) - The color palette
+* [ColorHunt] (https://colorhunt.co/palette/8200004e6c50f2debafaecd6) - The color palette
 * [Vercel] (https://vercel.com/) - Deployment Host
